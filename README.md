@@ -1,3 +1,9 @@
+# NAME :
+MOHANRAJ R
+# REGD NO.:
+212224230169
+
+
 # Exno:1
 Data Cleaning Process
 
@@ -189,4 +195,4 @@ df1
 
 
 # Result
-         Thus we have cleaned the data and removed the outliers by detection using
+         Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method
